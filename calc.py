@@ -1,7 +1,13 @@
 def sub(x, y):
+      """
+      Função que subtrai y de x
+      """
       return x - y
 
 def sum(x, y):
+      """
+      Função que soma x e y
+      """
       return x + y
 
 def div(x, y):
